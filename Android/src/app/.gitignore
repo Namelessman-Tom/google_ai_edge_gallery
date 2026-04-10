@@ -16,3 +16,5 @@
 
 /build
 /release
+
+/src/main/java/com/google/ai/edge/gallery/common/Security.kt
